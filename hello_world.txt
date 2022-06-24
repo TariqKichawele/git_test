@@ -1,3 +1,5 @@
 New mode
 bake 
 hello odin!
+I am Tariq Kichawele
+I am 23 yrs old
